@@ -1,0 +1,8 @@
+.pc-condensed a{
+    margin-right:25px;
+    text-align: center;
+}
+
+.pc-condensed {
+    max-height: 50px;
+}
