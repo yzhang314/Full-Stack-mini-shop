@@ -1,0 +1,5 @@
+db.products.insert({"price":2.99,"title":"Toy Duck","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/81GVHWbHUeL._SX522_.jpg"})
+db.products.insert({"price":129.50,"title":"Glass Cup","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/41zqDKq2vzL.jpg"})
+db.products.insert({"price":17.99,"title":"Notebook","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/71S5m%2BntutL._SX522_.jpg"})
+db.products.insert({"price":22.59,"title":"Umbrella","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/51EQzUMinFL._SX522_.jpg"})
+db.products.insert({"price":33.79,"title":"Silver Ring","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/61w5qYb1S3L._UY575_.jpg"})
